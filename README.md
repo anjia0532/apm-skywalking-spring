@@ -2,9 +2,11 @@
 
 Skywalking 中追踪 RabbitMQ 的自定义插件，添加对 Spring RabbitMQ 的支持。
 
+解决 Spring RabbitMQ 5.x 版本 Skywalking 无法追踪 tid:N/A 的问题。
+
 ## 版本说明
 
-1. Skywalking：8.12.0
+1. Skywalking：9.5.0
 2. spring-amqp：2.2.5
 
 ## 使用步骤：

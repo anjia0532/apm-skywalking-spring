@@ -11,5 +11,5 @@ Skywalking 中追踪 RabbitMQ 的自定义插件，添加对 Spring RabbitMQ 的
 
 ## 使用步骤：
 
-1. 使用 maven 打包；
+1. 使用 maven 打包；也可以使用预先编译好的 jar 包 （[下载地址](https://github.com/anjia0532/apm-skywalking-spring/packages/2799222)）
 2. 将 jar 包放到 Skywalking 目录下的 plugin 文件夹，重启项目即可。
